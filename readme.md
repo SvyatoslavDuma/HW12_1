@@ -37,7 +37,7 @@ It should yield the following response:
 {"status":"UP"}
 ```
 
-## The DataBase
+## The DataBase_
 
 The database is managed by an embedded H2 engine (v.2.1.214),
 it is stored in a file `./productsDB.mv.db`
