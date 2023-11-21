@@ -1,3 +1,4 @@
+[![MY_CI](https://github.com/SvyatoslavDuma/HW12_1/actions/workflows/MY_CI.yml/badge.svg)](https://github.com/SvyatoslavDuma/HW12_1/actions/workflows/MY_CI.yml)
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
