@@ -2,6 +2,8 @@ name: MY_CI
 
 on:
   push:
+  pull_request:
+    types: [opened, synchronize]
   workflow_dispatch:
 
 jobs:
