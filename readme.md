@@ -1,6 +1,6 @@
 [![MY_CI](https://github.com/SvyatoslavDuma/HW12_1/actions/workflows/MY_CI.yml/badge.svg)](https://github.com/SvyatoslavDuma/HW12_1/actions/workflows/MY_CI.yml)
 ## Prerequisites:
-- Java JDK version 17+ should be installed in the system
+- Java JD K version 17+ should be installed in the system
 
 Check_ it here https://www.oracle.com/java/technologies/downloads/#java17
 or here https://adoptium.net/temurin/releases/
